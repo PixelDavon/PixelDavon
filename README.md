@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello!
+# Introduction
+My name is Davon, currently 13 years old and I'm known as PyxlDavon online.
+# What I do
+I usually make contents on Youtube and I also code alot.
+I know some programming languages including:
+- Python (My first language!)
+- HTML (I'm decent at it)
+- JS
+- CSS
+- A bit of Java (since I used to code minecraft plugins)
+- TypeScript Basics (Learning)
+- Very little PHP
+- C++ Basics
+- C# Basics
+# Socials
+[Youtube](https://youtube.com/pyxldavon)
 
-<!--
-**PixelDavon/PixelDavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Twitch](https://twitch.tv/pyxldavon) (I rarely stream)
 
-Here are some ideas to get you started:
+[Twitter](https://twitter.com/DavonPyxl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Donate
+[Donate me at Ko-fi](https://ko-fi.com/pxdav)
